@@ -37,7 +37,7 @@ The solution consists of two Azure Functions:
 
 ## Running Tests
 
-If the project includes unit tests, run them with your preferred test runner or via Visual Studio's Test Explorer.
+There is a Xunit test project. You could run the tests. 
 
 ## Requirements
 
